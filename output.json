@@ -1,0 +1,98 @@
+{
+ "D3": {
+  "true": {
+   "lynched": 335,
+   "pardoned": 106
+  },
+  "false": {
+   "lynched": 28,
+   "pardoned": 4
+  }
+ },
+ "D6": {
+  "true": {
+   "pardoned": 68,
+   "lynched": 173
+  },
+  "false": {
+   "lynched": 37,
+   "pardoned": 9
+  }
+ },
+ "D7": {
+  "true": {
+   "lynched": 102,
+   "pardoned": 53
+  },
+  "false": {
+   "lynched": 28,
+   "pardoned": 13
+  }
+ },
+ "D5": {
+  "false": {
+   "pardoned": 10,
+   "lynched": 25
+  },
+  "true": {
+   "lynched": 232,
+   "pardoned": 93
+  }
+ },
+ "D4": {
+  "true": {
+   "lynched": 299,
+   "pardoned": 96
+  },
+  "false": {
+   "lynched": 40,
+   "pardoned": 15
+  }
+ },
+ "D2": {
+  "true": {
+   "pardoned": 106,
+   "lynched": 186
+  },
+  "false": {
+   "pardoned": 6,
+   "lynched": 22
+  }
+ },
+ "D9": {
+  "true": {
+   "pardoned": 5,
+   "lynched": 14
+  },
+  "false": {
+   "lynched": 5,
+   "pardoned": 1
+  }
+ },
+ "D8": {
+  "true": {
+   "lynched": 44,
+   "pardoned": 17
+  },
+  "false": {
+   "pardoned": 3,
+   "lynched": 9
+  }
+ },
+ "D10": {
+  "true": {
+   "lynched": 5,
+   "pardoned": 1
+  }
+ },
+ "D11": {
+  "true": {
+   "pardoned": 1
+  }
+ },
+ "D12": {
+  "true": {
+   "lynched": 1
+  }
+ }
+}
